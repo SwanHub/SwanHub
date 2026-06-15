@@ -1,3 +1,3 @@
 # Welcome!
 
-I am a growth-focused product engineer working on [Roboflow Universe](https://universe.roboflow.com) and [Frame 240](https://frame240.com).
+I am a product engineer at [Roboflow](https://roboflow.com). In my free time, I work on [Frame 240](https://frame240.com).
